@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+    font: italic normal bold 20px/22px serif;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid green;
+    margin-top: 35px;
+
+}
+h2 {
+    margin: 10px 20px 30px 10px;
+    padding: 10px 20px 30px 10px;
+}
+div {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #333;
+    padding: 20px;
+}
+div.form {
+    background-color: teal;
+    margin-bottom: 20px;
+}
+div.sumbit{
+    background-color: red;
+}
